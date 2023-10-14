@@ -1,5 +1,5 @@
 body {
-  background: linear-gradient(grey,lightblue,blue);
+ background:coral;/* linear-gradient(grey,lightblue,blue); */
   overflow: hidden;
   height: 100vh;
   width: 100vw;
@@ -53,7 +53,7 @@ body {
   width: 90vw;
   padding: 0 5vw;
   position: fixed;
-  background-color: lightslategrey;
+  background-color:Olive;
   top: 0;
   z-index: 1;
 }
